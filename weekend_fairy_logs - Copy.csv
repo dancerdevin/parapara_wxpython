@@ -1,0 +1,49 @@
+1|The Code Works (I Promise)|12/12/2022, 3:47:57|{'Condition': 80, 'Community': 40, 'Transcendence': 120, 'Adventurer': 40, 'Vivacity': 40, 'Memory': 40, 'Sage': 40, 'Fairy': 40}|Let's goooo!!
+2|Testing new function|12/12/2022, 4:47:57|{'Condition': 3, 'Community': 3, 'Transcendence': 3, 'Adventurer': 3, 'Vivacity': 3, 'Memory': 3, 'Sage': 3}|Will this work?
+3|Testing again|12/12/2022, 5:47:57|{'Community': 3, 'Diligence': 6, 'Logician': 3, 'Vivacity': 3, 'Homemaker': 3}|Does it matter if I use the reader object?
+4|What about now?|12/12/2022, 6:47:57|{'Condition': 6, 'Community': 3, 'Transcendence': 9, 'Adventurer': 3, 'Fairy': 3}|Eh?
+5|How about now??|12/12/2022, 7:47:57|{'Vivacity': 14, 'Memory': 7, 'Sage': 7, 'Condition': 7, 'Dancer': 7}|This should work, right?
+6|Simplifying the code|12/12/2022, 8:47:57|{'Vivacity': 3, 'Memory': 6, 'Sage': 3, 'Community': 3, 'Storyteller': 3}|Let's make some more functions to make this easier for the GUI
+7|Testing new functions|12/12/2022, 9:47:57|{'Condition': 15, 'Community': 30, 'Transcendence': 15, 'Adventurer': 15, 'Vivacity': 15, 'Memory': 15, 'Sage': 15, 'Diligence': 15, 'Logician': 15}|Do I do it again?
+8|How about this?|12/12/2022, 10:47:57|{'Vivacity': 7, 'Memory': 14, 'Sage': 7, 'Community': 7, 'Storyteller': 7}|Kind of a janky solution, and I should probably rename the function, but...
+9|The Schmoo Watches|12/12/2022, 11:47:57|{'Condition': 40, 'Community': 80, 'Transcendence': 40, 'Adventurer': 40, 'Diligence': 40, 'Memory': 80, 'Knight': 40, 'Storyteller': 40}|He is watching right now. How dare you, Schmoo!?!?!?
+10|The Schmoo Rises Twice|12/12/2022, 12:47:57|{'Vivacity': 15, 'Condition': 15, 'Dancer': 15, 'Community': 15, 'Diligence': 15, 'Logician': 15}|Fucking schmoo! Give up!
+11|Log Exception Test|12/12/2022, 13:47:57|{'Community': 7, 'Diligence': 7, 'Logician': 7}|This tests if the blah blah blah
+12|Testing New Format|12/12/2022, 14:47:57|{'Condition': 30, 'Community': 15, 'Transcendence': 15, 'Adventurer': 15, 'Vivacity': 15, 'Dancer': 15}|Will this break or what?
+13|Trying Again to Record Date|12/12/2022, 15:47:57|{'Condition': 7, 'Community': 7, 'Transcendence': 7, 'Adventurer': 7, 'Vivacity': 7, 'Diligence': 7, 'Homemaker': 7}|Let's see if str() records the string representation
+14|sdfsfd|12/12/2022, 16:47:57|{'Condition': 7, 'Community': 7, 'Transcendence': 7, 'Adventurer': 7}|sdfjsdklfjldskjf
+15|New Log Entry|12/12/2022, 17:52:59|{'Community': 7, 'Diligence': 7, 'Logician': 7}|Today I did a lot of great coding
+16|Test 1|12/12/2022, 18:23:41|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+17|Test 2|12/12/2022, 18:23:44|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+18|Test 3|12/12/2022, 18:23:47|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+19|Test 4|12/12/2022, 18:23:49|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+20|Test 5|12/12/2022, 18:23:52|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+21|Test 6|12/12/2022, 18:23:54|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+22|Test 7|12/12/2022, 18:23:56|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+23|Test 8|12/12/2022, 18:23:59|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+24|Test 9|12/12/2022, 18:24:01|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|This is a test of the GUI Log Entry system.
+25|New Log Entry|12/12/2022, 18:36:19|{'Condition': 3, 'Community': 6, 'Transcendence': 3, 'Adventurer': 3, 'Diligence': 3, 'Logician': 3}|Will it display the ID?
+26|New Log Entry Again|12/12/2022, 18:36:29|{'Condition': 7, 'Community': 14, 'Transcendence': 7, 'Adventurer': 7, 'Diligence': 7, 'Logician': 7}|Will it display the ID again?
+27|Testing Panel Three Update|12/12/2022, 18:40:36|{'Memory': 1, 'Community': 1, 'Storyteller': 1, 'Transcendence': 2, 'Condition': 1, 'Fairy': 1}|Could it work???
+28|Testing Refresh|12/13/2022, 11:41:37|{'Condition': 2, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1, 'Vivacity': 1, 'Dancer': 1}|Will it refresh the entries?
+29|Testing Dancer|12/13/2022, 11:44:16|{'Vivacity': 3, 'Condition': 3, 'Dancer': 3}|Will it increase above 13 experience?
+30|Trying again|12/13/2022, 11:45:36|{'Vivacity': 3, 'Condition': 3, 'Dancer': 3}|Will the dancer XP increase above 16?
+31|Is refresh working for the log reader??|12/13/2022, 11:46:18|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|Will this text appear?
+32|Testing again|12/13/2022, 11:46:58|{'Condition': 3, 'Community': 3, 'Transcendence': 3, 'Adventurer': 3}|Just seeing if I need refresh
+33|Testing again|12/13/2022, 11:47:07|{'Condition': 3, 'Community': 3, 'Transcendence': 3, 'Adventurer': 3}|Just seeing if I need refresh (again)
+34|Now testing to see if log reader updates|12/13/2022, 11:52:46|{'Vivacity': 3, 'Memory': 3, 'Sage': 3, 'Community': 3, 'Diligence': 3, 'Logician': 3}|Will this appear!?
+35|Testing compatibility with new reader button code|12/13/2022, 13:00:50|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|Will this show, and if so, how?
+36|Testing reader update with buttons again|12/13/2022, 13:03:09|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|Take two
+37|Testing log reader take three|12/13/2022, 13:03:53|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|Take three
+38|Testing log reader take four|12/13/2022, 13:04:40|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|Take four!!!
+39|Testing log reader take five|12/13/2022, 13:09:53|{'Condition': 1, 'Community': 1, 'Transcendence': 1, 'Adventurer': 1}|bljflsdjfdslkfsdlkfsjlk
+40|Testing Parameter Override 2|12/13/2022, 19:30:23|{'Transcendence': 17, 'Adventurer': 1}|Attempting to add 1 to Adventurer and 17 to Transcendence
+41|Regular Workout|12/13/2022, 21:39:21|{'Condition': 1}|<wx._core.TextCtrl object at 0x0000018797FC0790>
+42|Regular Workout|12/13/2022, 21:40:46|{'Condition': 1}|Regular workout recorded.
+43|Regular Workout|12/13/2022, 21:41:07|{'Condition': 1}|Testing the optional entry text for a regular Workout.
+44|Regular Workout|12/13/2022, 21:42:37|{'Condition': 1}|Regular workout recorded.
+45|Regular Workout|12/13/2022, 21:43:10|{'Condition': 1}|I did three-thousand pushups!!!!
+46|Showing Off My App to Eugene|12/13/2022, 21:44:14|{'Condition': 20, 'Logician': 7, 'Storyteller': 7, 'Knight': 7}|I am the ultimate schmoo slaying coder
+47|Leveling up to diligence to see if I broke my code|12/15/2022, 18:12:02|{'Diligence': 5, 'Adventurer': 1}|Will it still level up like before?
+48|blah|12/15/2022, 18:25:51|{'Transcendence': 1}|testing again
+49|testing to see if this resets the quests|12/17/2022, 21:21:14|{'Community': 3, 'Diligence': 3, 'Logician': 3}|hope my arc code works like I think it does

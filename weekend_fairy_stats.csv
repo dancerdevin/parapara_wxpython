@@ -1,0 +1,14 @@
+Condition|Physical strength, flexibility, and resilience; pain management.|10|0|50|0
+Community|Old friendships and new acquaintances nurtured and fostered.|10|0|50|0
+Diligence|Conscientiousness, consistency, and composure.|10|2|50|2
+Memory|Retention, narrative, and the distinctness of days.|10|0|50|0
+Vivacity|Presence, passion, charisma and confidence.|10|2|50|2
+Transcendence|Otherness and acceptance thereof.|10|0|50|0
+Adventurer|STORGE: Habits and virtues, one step further.|1|0|25|0|['Condition +1', 'Community +1', 'Transcendence +1']|['Maintain and renew dormant friendships', 'Strengthen hips and knees', 'Donate blood alone']
+Knight|PHILIA: Passion and duty, loyalty and persistence.|1|0|25|0|['Diligence +1', 'Memory +1']|['Learn Django and create ParaPara', 'Learn JavaScript and create a RPGMaker Script', 'Begin Russian with flashcards and basics']
+Sage|AGAPE: Liberation through clarity. From knowing, meaning.|1|0|25|0|['Vivacity +1', 'Memory +1']|['Create first Ethics for the Depressed video essay', 'Set up regular philosophy virtual discussion', 'Read 5 histories of philosophy']
+Dancer|EROS: Liberation through opacity. Meaning without knowing.|1|10|25|10|['Vivacity +1', 'Condition +1']|['Return to masked dancing with different fabulous outfits', '10 Insta mutuals from dancing', 'Attend new afterhours']
+Homemaker|LUDUS: Knight/Dancer. Loving husband.|1|0|25|0|['Vivacity +1', 'Diligence +1']|['Incorporate cat care into cleaning routine', 'Learn to cook channa masala', 'Rototiller the backyard or some equivalent']
+Logician|PRAGMA: Knight/Sage. Academic philosopher.|1|10|25|10|['Community +1', 'Diligence +1']|['Break through and submit Crit Phen of Value paper', 'Finish and submit Existential Feelings and Quasi-Beliefs papers', 'Book proposal in 2023']
+Storyteller|PHILAUTIA: Sage/Dancer. Creative writer.|1|0|25|0|['Memory +1', 'Community +1']|['Arrange Cosmos Cup for SCSMUSH', 'Read 10 new novels', 'Watch 10 new movies on the Criterion Channel']
+Fairy|MANIA: Sublime oblivion, beyond direction.|1|10|25|10|['Transcendence +2', 'Condition +1']|['Fabulous queer moment on the dance floor', 'Fabulous queer moment at Conduit Coffee', 'Fabulous queer moment at home']
